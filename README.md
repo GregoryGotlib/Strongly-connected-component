@@ -1,2 +1,0 @@
-# Strongly-connected-component
-test
